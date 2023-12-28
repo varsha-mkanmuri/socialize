@@ -1,4 +1,4 @@
-Introducing Socialize - A one stop solution for all your needs.
+Introducing Socialize - A one stop solution for all your needs. This project is part of coursework (COMS 6998) at Columbia University.
 
 No more missing out on announcements about events and meetups scattered across different platforms!
 
@@ -15,3 +15,4 @@ Polling Power: Creators can understand and cater to student interests with our i
 meetups a hit!
 
 The project has been implemented using various AWS components - AWS Personalize for AI recommendations, DynamoDB for efficient data storage, and OpenSearch for advanced search capabilities.
+Details on how to run the code can be found under the 'socialize' folder.
