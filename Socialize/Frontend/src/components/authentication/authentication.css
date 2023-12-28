@@ -1,0 +1,11 @@
+.login-image-container {
+    image-rendering: crisp-edges;
+    image-rendering: auto;
+    background-size: cover; 
+    background-position: center;
+    opacity: 1;
+  }
+
+.logo{
+  height: 20vh;
+}
